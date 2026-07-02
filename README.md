@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anishsingh83/leetcode-solutions-2/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anishsingh83/leetcode-solutions-2/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anishsingh83/leetcode-solutions-2/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
